@@ -1,6 +1,0 @@
-1. Added support for server resolutions below 800x600.
-Please find the new settings under Settings>Display>Custom resolution
-2. In View Mode the 3d transformations can be individually enabled/disabled (default is disabled).
-Please find the new settings under Settings>Display>View transformations
-3. In View Mode, after modifying the view with the enabled 3d transformations (check feature 2. above), it can be reset to default by pressing the "Reset View" application command button.
-
